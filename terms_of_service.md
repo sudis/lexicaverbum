@@ -1,6 +1,6 @@
 # Lexica Verbum Terms of Service
 
-- Last modification date: `October 27, 2021`
+- Last modification date: `November 2, 2021`
 
 #### BEFORE YOU START: The following terms of service indicate under which conditions we will and will not serve you. The following agreements, including your legal rights and more, become effective from the time you start using our service. Under no circumstances can you withdraw from the agreement below once you start using our service.
 
