@@ -39,7 +39,7 @@ Do you want to earn more money? Or lose more? You can win millions with "`crash`
 
 Nothing happens when you lose the first time. You will only **lose as much as your bet**.
 
-![](https://sudis.is-pretty.sexy/8QnsSdW.png)
+![image](https://sudis.is-pretty.sexy/8QnsSdW.png)
 
 But if you're lucky and you win, you're in the **second round**. Here you are asked. `Continue` or `Stand`? If you choose to `Stand`, the amount shown on the right will be credited to your account. If you accept the **risk** and want to `Continue`, the game is played again and the result is **doubled** or you **lose** the game.
 
