@@ -11,6 +11,7 @@
 > This category shows commands that users can use. For example, creating a bank account, starting interest and etc.
 
  **`/account create [name]`**
+ 
 All users who want to get started with **Lexica Verbum** must first create an account. The account name can have a maximum of `25` characters and supports special characters. To change the **account name** the item "🖊️ **Magic Pen**" is needed, which will come in future updates.
 
 **`/account info`**
