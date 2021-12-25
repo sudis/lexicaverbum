@@ -43,19 +43,19 @@ Nothing happens when you lose the first time. You will only **lose as much as yo
 
 But if you're lucky and you win, you're in the **second round**. Here you are asked. `Continue` or `Stand`? If you choose to `Stand`, the amount shown on the right will be credited to your account. If you accept the **risk** and want to `Continue`, the game is played again and the result is **doubled** or you **lose** the game.
 
-![](https://sudis.is-pretty.sexy/4EwBDTG.png)
+![image](https://sudis.is-pretty.sexy/4EwBDTG.png)
 
 Let's say we chose to play here and we **lost**.
 
-![](https://sudis.is-pretty.sexy/kDb7zJp.png)
+![image](https://sudis.is-pretty.sexy/kDb7zJp.png)
 
 While we were making almost **$400** the first time, our greed made us lose even more money. There are many types of multipliers in this game. Even when you win, you can lose. Because **X0** and **X1** are also present among the multipliers. What do these mean? An **X0**-type multiplier sets your bankroll to **$0**. Let's say you wanted to **continue**. Losing more is the moment. A multiplier of type **X1** protects the value of your money.
 
-![](https://sudis.is-pretty.sexy/A6ekt43.png)
+![image](https://sudis.is-pretty.sexy/A6ekt43.png)
 
 Let's say your luck went great. You get a multiplier of type X3 in the first round and a multiplier of type X4 in the next round. (*Here a **$100 bet** is used.*) The math works like this: `FIRST ROUND MULTIPLER * YOUR BET + SECOND ROUND MULTIPLER * YOUR BET`.
 
-![](https://sudis.is-pretty.sexy/3UXDxv4.png)
+![image](https://sudis.is-pretty.sexy/3UXDxv4.png)
 
 Luck is the most important factor in the "**crash**" game. While you can win millions, you can lose billions.
 
@@ -65,25 +65,25 @@ The "**whale**" game is very simple. It works with coin toss logic. If you lose 
 
 Let's say you lose your whole bet is lose.
 
-![](https://sudis.is-pretty.sexy/8vyzaFb.png)
+![image](https://sudis.is-pretty.sexy/8vyzaFb.png)
 
 Or you won.
 
-![](https://sudis.is-pretty.sexy/8aNPxav.png)
+![image](https://sudis.is-pretty.sexy/8aNPxav.png)
 
 **`/which_one [bet]`**
 
 There are three boxes in "**which one**" game.  One of these boxes contains your figure. The object of the game is to guess which box this figure is in. Three buttons appear under the boxes. Each of these buttons represents a box. Choose when you guess which box the figure is in.
 
-![](https://sudis.is-pretty.sexy/7Cq5nYu.png)
+![image](https://sudis.is-pretty.sexy/7Cq5nYu.png)
 
 Let's say you were **unsuccessful** in figuring out which box the figure is in. You lose your whole bet. Buttons representing boxes that are faulty turn **red**. The correct button turns **green**.
 
-![](https://sudis.is-pretty.sexy/6YbiNca.png)
+![image](https://sudis.is-pretty.sexy/6YbiNca.png)
 
 When you win, how much money you have earned is displayed on the right. At the same time, the **embed color** changes.
 
-![](https://sudis.is-pretty.sexy/94eNx7P.png)
+![image](https://sudis.is-pretty.sexy/94eNx7P.png)
 
 ### 🌸 Earning Commands (`2`)
 > Earning commands are the main monetization methods. In these ways, you will definitely make money.
@@ -92,7 +92,7 @@ When you win, how much money you have earned is displayed on the right. At the s
 
 You can get daily salary with "**daily**" command.
 
-![](https://sudis.is-pretty.sexy/34YkrWH.png)
+![image](https://sudis.is-pretty.sexy/34YkrWH.png)
 
 **`/interest`**
 For more information with this command, please go to the address **[here](https://github.com/sudis/lexicaverbum/blob/main/interest.md)**.
