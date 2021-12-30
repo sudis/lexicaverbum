@@ -1,6 +1,6 @@
 # Lexica Verbum Terms of Service
 
-- Last modification date: `November 2, 2021`
+- Last modification date: `December 30, 2021`
 
 #### BEFORE YOU START: The following terms of service indicate under which conditions we will and will not serve you. The following agreements, including your legal rights and more, become effective from the time you start using our service. Under no circumstances can you withdraw from the agreement below once you start using our service.
 
@@ -22,6 +22,8 @@ You can get some free/paid content from Lexica Verbum. This grants you a limited
 Except as expressly granted in these Terms, no authority or right is granted to you pursuant to or indirectly, any intellectual property rights owned or controlled by the Company and its licensors.
 
 Lexica Verbum may terminate, destroy, modify, transfer, re-identify, and do anything it wishes, your Service upon notice (or without notice) to you. Violating or failing to comply with the clauses we have outlined in the Agreements may immediately suspend your access to the Services or reserve the right to take further action.
+
+Lexica Verbum creates the Treasury with the taxes it collects. No authority can decide what to do with this treasure. **Treasury** belongs to the bot.
 
 ## YOUR CONTENT
 
