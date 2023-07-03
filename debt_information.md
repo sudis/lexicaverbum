@@ -12,7 +12,7 @@ The amount of credit you receive increases according to the title you are curren
 In some games, your loss may be more than you expect. If your winnings in any game are negative, this amount will be written off as a debit instead of being withdrawn from your bank account. Your debts in this game can stack up to three times in total. You are not allowed to make a loan after the third time. You can't play games that you can borrow money from.
 
 **IF YOU HAVE ANY** (`💳`)
-- *Debt from either type of **debt**, you** cannot** rank up in any way.*
+- *Debt from either type of **debt**, you **cannot** rank up in any way.*
 - *Type of **debt**, checks are **placed** on the money you can send.*
 
 ## Check System (`✒️`)
