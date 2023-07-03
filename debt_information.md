@@ -1,4 +1,4 @@
-# Debt System (`💸`)
+# Debt System 💸
 It can be good to make some new beginnings right? It would be nice to get some help from the central treasury. There are two types of debt systems. The first of these is the loans you receive from us. Another type of debt is debt from games.
 
 ## Loans (`📃`)
